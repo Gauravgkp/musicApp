@@ -1,0 +1,22 @@
+.nav-item{
+    font-size: 5vh;
+    padding-top: 10px;
+}
+.title{
+    font-family: 'Lobster', cursive;
+    color: rgb(255, 68, 68);
+    font-size: 6vh;
+    padding-left: 28vw;   
+}
+.home{
+    font-family: 'Lobster', cursive;
+    color: greenyellow;
+    font-size: 6vh;
+    padding-left: 28vw;   
+}
+.play{
+    font-family: 'Lobster', cursive;
+    color: greenyellow;
+    font-size: 6vh;
+    padding-left: 28vw; 
+}

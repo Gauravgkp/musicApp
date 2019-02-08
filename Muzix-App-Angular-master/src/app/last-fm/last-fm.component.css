@@ -1,0 +1,20 @@
+.panel-heading{
+    font-family: 'Lobster', cursive;
+    color: rgb(65, 161, 20);
+    background-color: rgb(7, 7, 138);
+}
+.panel-body{
+    color:  rgb(7, 7, 138);
+    background-color: rgb(65, 161, 20);
+}
+.panel-footer{
+    font-family: 'Lobster', cursive;
+    color: rgb(65, 161, 20);
+    background-color: rgb(7, 7, 138);
+}
+.container{
+    background-color: rgb(98, 245, 164);
+}
+.btn{
+    background-color: rgb(7, 128, 13);
+}
